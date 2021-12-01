@@ -16,7 +16,6 @@ windowed_measurements = np.convolve(measurements, kernel, "valid")
 measurement_increments = np.diff(windowed_measurements)
 
 # count positive increments
-increases = np.where(measurement_increments > 0, 1, 0)
-count_increases = np.sum(increases)
+count_increases = np.sum(measurement_increments > 0)
 
 print(count_increases)
