@@ -3,10 +3,6 @@
 ## Part 2
 
 
-import numpy as np
-from collections import defaultdict
-
-
 class Submarine:
     
     def __init__(self):
@@ -30,8 +26,8 @@ moves = open("moves.txt", "r").read().split("\n")
 # run all moves
 submarine = Submarine()
 for move in moves:
-    intsruction, distance = move.split()
-    submarine.move(intsruction, int(distance))
+    instruction, distance = move.split()
+    submarine.move(instruction, int(distance))
 
 # multiply distances
 print(submarine.depth * submarine.forward)
