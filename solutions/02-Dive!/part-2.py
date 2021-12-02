@@ -27,7 +27,7 @@ class Submarine:
 # load moves
 moves = open("moves.txt", "r").read().split("\n")
 
-# total each instruction type
+# run all moves
 submarine = Submarine()
 for move in moves:
     intsruction, distance = move.split()
