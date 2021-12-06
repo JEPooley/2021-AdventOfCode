@@ -23,4 +23,5 @@ for day in range(n_days):
     counts = np.roll(counts, -1)
     counts[6] += giving_birth
 
+# get population count
 print(np.sum(counts))
