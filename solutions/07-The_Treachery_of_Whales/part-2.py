@@ -9,6 +9,7 @@ import numpy as np
 def sum_range(n):
     return 0.5 * n * (n + 1)
 
+
 def distance(array, number):
     difference = np.abs(np.subtract(array, number))
     costs = np.vectorize(sum_range)(difference)
