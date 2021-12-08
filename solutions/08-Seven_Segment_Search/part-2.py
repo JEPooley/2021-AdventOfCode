@@ -11,11 +11,10 @@ Rules:
 3. 9 has six active sections AND shares four of them with 4
 4. 0 has six active sections AND shares three of them with 4
 5. 3 has five active sections AND shares two of them with 1
-6. 2 has five active sections and all of its sections are in 6's
-7. 5 has five active sections and all of its sections are in 9's
+6. 2 has five active sections AND all of its sections are in 6's
+7. 5 has five active sections AND all of its sections are in 9's
 '''
 
-import numpy as np
 from collections import defaultdict
 
 
