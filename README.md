@@ -8,3 +8,4 @@
 5. [Hydrothermal Venture](solutions/05-Hydrothermal_Venture)
 6. [Lanternfish](solutions/06-Lanternfish)
 7. [The Treachery of Whales](solutions/07-The_Treachery_of_Whales)
+8. [Seven Segment Search](solutions/08-Seven_Segment_Search)
