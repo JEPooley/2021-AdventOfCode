@@ -11,3 +11,4 @@
 8. [Seven Segment Search](solutions/08-Seven_Segment_Search)
 9. [Smoke Basin](solutions/09-Smoke_Basin)
 10. [Syntax Scoring](solutions/10-Syntax_Scoring)
+11. [Dumbo Octopus](solutions/11-Dumbo_Octopus)
