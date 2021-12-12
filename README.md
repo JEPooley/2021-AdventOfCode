@@ -12,3 +12,4 @@
 9. [Smoke Basin](solutions/09-Smoke_Basin)
 10. [Syntax Scoring](solutions/10-Syntax_Scoring)
 11. [Dumbo Octopus](solutions/11-Dumbo_Octopus)
+12. [Passage Pathing](solutions/12-Passage_Pathing)
