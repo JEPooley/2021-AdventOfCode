@@ -13,3 +13,4 @@
 10. [Syntax Scoring](solutions/10-Syntax_Scoring)
 11. [Dumbo Octopus](solutions/11-Dumbo_Octopus)
 12. [Passage Pathing](solutions/12-Passage_Pathing)
+13. [Transparent Origami](solutions/13-Transparent_Origami)
