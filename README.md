@@ -14,3 +14,4 @@
 11. [Dumbo Octopus](solutions/11-Dumbo_Octopus)
 12. [Passage Pathing](solutions/12-Passage_Pathing)
 13. [Transparent Origami](solutions/13-Transparent_Origami)
+14. [Extended Polymerization](solutions/14-Extended_Polymerization)
